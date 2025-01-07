@@ -1,5 +1,5 @@
 # portfolio-template
-JUST FOR NOW
+JUST FOR NOW ! NOT FINAL
 
 A basic html/css template for web concentration portfolio 1 students
 
